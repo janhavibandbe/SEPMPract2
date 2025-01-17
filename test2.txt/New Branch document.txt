@@ -1,0 +1,1 @@
+This document is created to see merging of two branches. This document is in branch BranchNew, which is merged in branch main.
